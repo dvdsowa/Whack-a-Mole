@@ -21,7 +21,7 @@ body {
     background-color: #f2f2f2;
     background-image: url(../images/grass00.png), linear-gradient(to top, dodgerblue, deepskyblue, lightblue);;
     background-repeat: no-repeat, no-repeat;
-    background-size: 100% 55%, 100% 45%;
+    background-size: 1000px 55%, 1000px 45%;
     background-position: bottom, top;
 }
 
